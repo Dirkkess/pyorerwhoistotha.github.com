@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: http://pyorerwhoistotha.github.io/sitemap.xml
